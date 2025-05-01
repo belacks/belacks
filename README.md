@@ -130,7 +130,7 @@ Here are a few highlights from my portfolio. Check out the full list on my [**St
 </details>
 
 <br/>
-➡️ [See All Projects on My Streamlit Portfolio!](https://projectlist.streamlit.app/)
+➡️ [**See All Projects on My Streamlit Portfolio**](https://projectlist.streamlit.app/)
 
 ---
 
