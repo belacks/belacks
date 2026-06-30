@@ -33,7 +33,6 @@ I'm a Data Science student passionate about leveraging data and AI to build impa
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"/> <!-- Using PostgreSQL logo for SQL -->
-  <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
 </p>
 
 **Data Science & Machine Learning/Deep Learning:**
